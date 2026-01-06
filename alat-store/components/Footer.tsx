@@ -29,7 +29,7 @@ export default function Footer() {
       </div>
 
       <p className="text-center text-sm mt-6 text-gray-300">
-        © {new Date().getFullYear()} Pounds Michaells Digitals. All rights reserved.
+        © {new Date().getFullYear()} Pounds Michaels Digitals. All rights reserved.
       </p>
     </footer>
   );
