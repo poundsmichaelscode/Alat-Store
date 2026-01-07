@@ -54,7 +54,7 @@ export default function Navbar() {
         <div className="hidden md:flex items-center gap-4">
           <Link
             href="https://wa.me/2349055515211?text=Hello%20I%20want%20to%20order"
-            className="bg-purple-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-purple-800 transition"
+            className="bg-purple-700 text-white px-6 py-3 font-semibold hover:bg-purple-800 transition"
           >
             Order Now
           </Link>
@@ -74,7 +74,7 @@ export default function Navbar() {
         </button>
       </nav>
 
-      {/* Mobile Menu */}
+      {/* **************** Mobile Menu *********** */}
       {menuOpen && (
         <div className="md:hidden bg-white border-t shadow-sm">
           <ul className="flex flex-col px-6 py-4 gap-4 font-medium text-gray-700">
@@ -96,7 +96,7 @@ export default function Navbar() {
             <li>
               <Link
                 href="https://wa.me/2349055515211?text=Hello%20I%20want%20to%20order"
-                className="bg-purple-700 text-white text-center py-3 rounded-lg"
+                className="bg-purple-700 text-white text-center py-3 px-3 font-semibold  rounded-lg"
                 onClick={() => setMenuOpen(false)}
               >
                 Order Now
