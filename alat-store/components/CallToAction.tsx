@@ -18,10 +18,10 @@ export default function CallToAction() {
           </a>
 
           <a
-            href="https://chat.whatsapp.com/9055515211"
+            href="https://alat-luxe-shop.lovable.app/"
             className="border border-white px-6 py-3 rounded-lg hover:bg-white hover:text-purple-700 transition"
           >
-            Join WhatsApp Group
+            Visit Website
           </a>
         </div>
       </div>

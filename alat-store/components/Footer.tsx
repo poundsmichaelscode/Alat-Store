@@ -20,10 +20,10 @@ export default function Footer() {
 
         <div>
           <a
-            href="https://chat.whatsapp.com/2349055515211"
-            className="inline-block bg-green-500 px-4 py-2 rounded-lg"
+            href="https://alat-luxe-shop.lovable.app/" // Replace with Website link
+            className="inline-block bg-purple-600 px-4 py-2 rounded-lg"
           >
-            Join WhatsApp Group
+          Visit Website
           </a>
         </div>
       </div>

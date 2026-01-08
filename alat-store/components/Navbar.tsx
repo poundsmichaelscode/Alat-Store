@@ -53,7 +53,7 @@ export default function Navbar() {
         {/* CTA */}
         <div className="hidden md:flex items-center gap-4">
           <Link
-            href="https://wa.me/2349055515211?text=Hello%20I%20want%20to%20order"
+            href="#" // Replace with website link
             className="bg-purple-700 text-white px-6 py-3 font-semibold hover:bg-purple-800 transition"
           >
             Order Now
@@ -95,7 +95,7 @@ export default function Navbar() {
             </li>
             <li>
               <Link
-                href="https://wa.me/2349055515211?text=Hello%20I%20want%20to%20order"
+                href="https://alat-luxe-shop.lovable.app/"// replace with website link
                 className="bg-purple-700 text-white text-center py-3 px-3 font-semibold  rounded-lg"
                 onClick={() => setMenuOpen(false)}
               >

@@ -33,10 +33,10 @@ export default function HeroSection() {
           </a>
 
           <a
-            href="https://chat.whatsapp.com/XXXX"
+            href="https://alat-luxe-shop.lovable.app/"// replace with website link
             className="border border-white px-6 py-3 rounded-lg hover:bg-white hover:text-purple-700 transition"
           >
-            Join WhatsApp Group
+            Visit Website
           </a>
         </div>
       </div>
